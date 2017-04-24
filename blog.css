@@ -1,0 +1,22 @@
+body {
+  font-family: Source Sans Pro;
+}
+
+.blog-container {
+  border: 20px solid #c1bfbf;
+  margin: 0px auto;
+  width: 60%;
+  padding: 0px 20px;
+}
+
+.blog-container p:nth-of-type(1) {
+  border-left: 5px solid #c1bfbf;
+  padding-left: 10px;
+}
+
+h4 {
+  text-transform: uppercase;
+  color: #3498db;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
