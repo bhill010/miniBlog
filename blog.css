@@ -20,3 +20,7 @@ h4 {
   font-weight: 400;
   letter-spacing: 2px;
 }
+
+hr {
+  border-color: rgba(22,22,22,0.1);
+}
